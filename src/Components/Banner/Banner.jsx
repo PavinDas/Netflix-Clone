@@ -11,7 +11,6 @@ function Banner() {
             <button className='button' >My list</button>
         </div>
         <h1 className='description'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque illo iste aliquid ipsum illum! Enim similique possimus soluta provident</h1>
-
       </div>
     <div className="fade-bottom">
       
